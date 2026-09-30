@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Card/Wallet outline -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M30,36 C30,32.7 32.7,30 36,30 L72,30 C75.3,30 78,32.7 78,36 L78,72 C78,75.3 75.3,78 72,78 L36,78 C32.7,78 30,75.3 30,72 Z" />
+
+    <!-- Inner card surface -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M33,39 C33,36.8 34.8,35 37,35 L71,35 C73.2,35 75,36.8 75,39 L75,69 C75,71.2 73.2,73 71,73 L37,73 C34.8,73 33,71.2 33,69 Z" />
+
+    <!-- Upward Trend Chart Line inside card -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M38,62 L48,53 L56,58 L69,44" />
+
+    <!-- Arrow head for trend -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M63,43 L71,43 L71,51 Z" />
+
+    <!-- Coin / Accent Badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,44 C44,41.8 45.8,40 48,40 C50.2,40 52,41.8 52,44 C52,46.2 50.2,48 48,48 C45.8,48 44,46.2 44,44 Z" />
+
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseTrack",
+  "description": "Production-ready monthly expense tracker with strict transactional financial integrity, zero automatic mutation, Room database, budget, reports, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
